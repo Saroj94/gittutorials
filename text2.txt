@@ -1,0 +1,7 @@
+Saroj Rai is a proficient ML engineer, AI developer, and Data Scientist with a strong background in machine learning, artificial intelligence, and data analysis. With a passion for leveraging data to drive decision-making and innovation, Saroj has developed expertise in various machine learning algorithms, deep learning frameworks, and data processing techniques.
+
+Saroj's skill set includes programming languages such as Python, R, and SQL, as well as experience with popular ML and AI libraries like TensorFlow, Keras, PyTorch, and Scikit-learn. Saroj is adept at building and deploying machine learning models, performing data wrangling and visualization, and implementing end-to-end data science projects.
+
+In addition to technical skills, Saroj possesses strong problem-solving abilities and a keen analytical mindset, enabling the extraction of valuable insights from complex datasets. Saroj is committed to continuous learning and staying updated with the latest advancements in the field of machine learning and artificial intelligence.
+
+Overall, Saroj Rai is a dedicated and skilled professional, capable of transforming data into actionable intelligence and contributing to the success of any data-driven organization.
